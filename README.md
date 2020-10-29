@@ -29,3 +29,7 @@
 ## :pencil2: Linguagem
 * JAVA
 * SQL
+
+## :raised_hands:Agracecimentos
+* Professor Márcio Maestrelo Funes. Disciplina: Linguagem de Programação.
+* Professor Ovídio José Francisco. Disciplina: Banco de Dados.
