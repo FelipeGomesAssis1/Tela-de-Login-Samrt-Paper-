@@ -27,5 +27,5 @@
  Um dos principais motivos para a utilização do sistema é a facilidade e controle das ações dentro de uma sorveteria. Com ele você fica a par de todas as vendas, todos os produtos disponíveis no estoque e os seus clientes cadastrados. Tornando-se indispensável para uma boa administração do seu negócio. 
 
 ## :pencil2: Linguagem
-*JAVA
-*SQL
+* JAVA
+* SQL
