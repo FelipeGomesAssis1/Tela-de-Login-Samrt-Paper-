@@ -14,4 +14,4 @@ Projeto desenvolvido no curso de Análise e Desenvolvimento de Sistemas para a d
 * controle de vendas.
 
 # :art:Layout
- ![Telas](https://i.picasion.com/pic90/b050379ebcd89b1cd9f3a59de5fe14a7.gif)
+ ![Telas](https://i.picasion.com/pic90/982c2829fae076b0f8cda9f04ab39b6f.gif)
